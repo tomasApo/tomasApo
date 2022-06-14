@@ -1,5 +1,6 @@
 ### Hey all 👋
 
+Check my website apolonia.co.uk for my previous projects!
 
 🔭Curretly working on my Pattern recognition Dissertation 
 
