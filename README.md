@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Curretly working on my Pattern recognition Dissertation 
 
-Looking to learn more about rust ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/440px-Rust_programming_language_black_logo.svg.png)
-specificaly embeded rust! 
+Looking to learn more about rust. Specificaly IOT https://en.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg![image](https://user-images.githubusercontent.com/75183079/173566822-a0aa4479-7a21-4eed-a4be-c9a263146300.png)
+
