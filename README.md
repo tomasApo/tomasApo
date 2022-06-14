@@ -5,5 +5,5 @@
 
 🌱Wanting to dive into the world of embeded rust. Specificaly IOT. Any advice? 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/440px-Rust_programming_language_black_logo.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/440px-Rustacean-orig-noshadow.svg.png)
 
