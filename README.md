@@ -1,8 +1,8 @@
 ### Hey all 👋
 
-Check my website www.apolonia.co.uk for my previous projects!
+Check out www.apolonia.co.uk for my previous projects
 
-🔭Curretly working on my Pattern recognition Dissertation 
+interested in Python and Pattern recognition? Check out https://github.com/tomasApo/Dissertation_ACF_v22
 
 🌱Wanting to dive into the world of embeded rust. Specificaly IOT. Any advice? 
 
