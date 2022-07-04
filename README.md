@@ -2,7 +2,7 @@
 
 Check out www.apolonia.co.uk for my previous projects
 
-interested in Python and Pattern recognition? Check out [Dissertation_ACF_v22](https://github.com/tomasApo/Dissertation_ACF_v22)
+Interested in Python and Pattern recognition? Check out [Dissertation_ACF_v22](https://github.com/tomasApo/Dissertation_ACF_v22)
 
 🌱Wanting to dive into the world of embeded rust. Specificaly IOT. Any advice? 
 
