@@ -2,7 +2,7 @@ Check out www.apolonia.co.uk for my previous projects
 
 Interested in Pattern recognition with Python? Check out [Dissertation_ACF_v22](https://github.com/tomasApo/Dissertation_ACF_v22)
 
-Current developing a previous year's project www.apolonia.co.uk/sagentia to learn embedded Rust programing and hardware design!
+Current developing a previous year's project www.apolonia.co.uk/release to learn embedded Rust programing and hardware design!
 Check out [Release-V2](https://github.com/tomasApo/Release-V2)
 
 
